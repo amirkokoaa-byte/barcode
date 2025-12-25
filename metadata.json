@@ -1,0 +1,7 @@
+{
+  "name": "Smart Barcode Scanner - ماسح الباركود الذكي",
+  "description": "An intelligent product information assistant that scans barcodes to provide detailed specifications, nutrition facts, price comparisons, and health analysis.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
