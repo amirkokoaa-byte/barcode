@@ -44,3 +44,9 @@ export interface ShoppingListItem {
   product: ProductInfo;
   addedAt: number;
 }
+
+export interface HistoryItem {
+  id: string;
+  product: ProductInfo;
+  scannedAt: number;
+}
